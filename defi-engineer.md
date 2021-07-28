@@ -53,6 +53,6 @@ KeeperDAO is a DAO on Ethereum which provides infrastructure to make DeFi more s
 You will be a great fit if you are a motivated individual who puts team success first and enjoys solving hard problems. 
 
 
-## Contact
+## To apply
 
-work@keeperdao.com
+Please send your resume/CV to work@keeperdao.com
