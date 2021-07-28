@@ -55,4 +55,4 @@ You will be a great fit if you are a motivated individual who puts team success 
 
 ## To apply
 
-Please send your resume/CV to work@keeperdao.com
+Please send your resume/CV to `work@keeperdao.com` with this position title and your name as the email subject
