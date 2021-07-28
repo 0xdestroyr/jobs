@@ -5,7 +5,7 @@
 
 We are looking for an experienced python developer who loves to program and build software.
 
-You will join a team of expert crypto enthusiasts who are leading the DeFi frontier of MEV capture and distribution. You will create and contribute to automation software and infrastructure that powers DeFi protocols within the Ethereum ecosystem. You will have the opportunity to write smart contracts and build the software that controls them. You will be working with to some of the top minds in the crypto space.  
+You will join a team of expert crypto enthusiasts who are leading the DeFi frontier of MEV capture and distribution. You will create and contribute to automation software and infrastructure that powers DeFi protocols within the Ethereum ecosystem. You will have the opportunity to write smart contracts and build the software that controls them. You will be working with some of the top minds in the crypto space.  
 
 
 ### Requirements
