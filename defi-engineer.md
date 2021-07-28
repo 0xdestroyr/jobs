@@ -48,7 +48,7 @@ You will join a team of expert crypto enthusiasts who are leading the DeFi front
 
 ## KeeperDAO
 
-KeeperDAO is a DAO on Ethereum which provides infrastructure to make DeFi more secure, profitable, and egalitarian for everyone.
+KeeperDAO is a DAO on Ethereum which provides infrastructure to make DeFi more secure, profitable, and egalitarian for everyone.  Visit our app at [https://app.keeperdao.com/](https://app.keeperdao.com/)
 
 You will be a great fit if you are a motivated individual who puts team success first and enjoys solving hard problems. 
 
