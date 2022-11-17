@@ -1,5 +1,5 @@
-# Jobs available within KeeperDAO
+## Jobs available within Rook
 
-* [Lead DeFi Engineer (Python)](defi-engineer.md)
+Please find all open job positions at https://www.rook.fi/careers
 
-Reach out to us at `work@keeperdao.com`
+Don't see a position that's right for you? We are always looking for talented contributors to join our team, please submit an application to https://tally.so/r/nrqkXw
